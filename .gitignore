@@ -1,0 +1,8 @@
+﻿node_modules/
+.env
+dist/
+build/
+.DS_Store
+
+# NOTE: .ai_build_plan.md is INTENTIONALLY NOT IGNORED to allow in-repo AI sync.
+!/.ai_build_plan.md
